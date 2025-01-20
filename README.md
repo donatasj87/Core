@@ -1,1 +1,1 @@
-# Core
+Generic core package, that simplifies creation of new applications just by using two lines.
